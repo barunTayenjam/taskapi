@@ -48,4 +48,4 @@ This API manages tasks through various endpoints allowing CRUD operations and so
 - `created`: Sort tasks by creation date.
 - `status`: Sort tasks by status.
 
-**disclaimer:** ChatGPT helped me in generating this readme file
+**Disclaimer:** ChatGPT helped me in generating this readme file
